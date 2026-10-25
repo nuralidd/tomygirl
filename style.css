@@ -1,0 +1,27 @@
+#aty{
+    text-align: center;
+    font-family: fantasy;
+    font-size: 200%;
+}
+
+#foto{
+    height: 80%;
+    border-radius: 10% 10% 0% 10% ;
+    float: left;
+    border: 8px solid black;
+}
+
+.text{
+    position: relative;
+    left: 5%;
+    font-size: 180%;
+    font-family: cursive
+}
+
+#knopka{
+    font-size: 150%;
+    background-color: violet;
+    position: relative;
+    left: 14px;
+    padding: 30px;
+}
